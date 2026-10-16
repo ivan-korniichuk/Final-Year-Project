@@ -1,2 +1,3 @@
 # Final Year Project
 
+The main aim of this project is to develop a tool that can position, align, and combine separate 3D models into one unified 3D environment. The idea is to identify where each model belongs relative to the others and connect them together. For example, separate 3D models of different rooms could be combined to create a complete 3D representation of a building's interior or a larger area.
